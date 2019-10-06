@@ -1,0 +1,11 @@
+F:\2-2\새 폴더\인사관리\인사관리\bin\Debug\인사관리.exe.config
+F:\2-2\새 폴더\인사관리\인사관리\bin\Debug\인사관리.exe
+F:\2-2\새 폴더\인사관리\인사관리\bin\Debug\인사관리.pdb
+F:\2-2\새 폴더\인사관리\인사관리\obj\Debug\인사관리.Form1.resources
+F:\2-2\새 폴더\인사관리\인사관리\obj\Debug\인사관리.Properties.Resources.resources
+F:\2-2\새 폴더\인사관리\인사관리\obj\Debug\인사관리.csproj.GenerateResource.cache
+F:\2-2\새 폴더\인사관리\인사관리\obj\Debug\인사관리.csproj.CoreCompileInputs.cache
+F:\2-2\새 폴더\인사관리\인사관리\obj\Debug\인사관리.exe
+F:\2-2\새 폴더\인사관리\인사관리\obj\Debug\인사관리.pdb
+F:\2-2\새 폴더\인사관리\인사관리\obj\Debug\인사관리.csprojAssemblyReference.cache
+F:\2-2\새 폴더\인사관리\인사관리\obj\Debug\인사관리.Login.resources
